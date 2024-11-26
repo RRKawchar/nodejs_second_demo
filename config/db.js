@@ -7,7 +7,7 @@ const myCreatePool=mysql.createPool(
 
         host:'localhost',
         user:'root',
-        password:'rrk@mysql123',
+        password:'',
         database:'student_db'
     }
 
